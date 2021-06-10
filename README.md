@@ -1,4 +1,4 @@
-# Resources on gettign started with QUIC
+# Resources on getting started with QUIC
 
 
 
